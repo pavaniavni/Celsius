@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\Celsius\Celsius\bin\Debug\net6.0\Celsius.exe
+C:\Users\Pavani\source\repos\Celsius\Celsius\bin\Debug\net6.0\Celsius.deps.json
+C:\Users\Pavani\source\repos\Celsius\Celsius\bin\Debug\net6.0\Celsius.runtimeconfig.json
+C:\Users\Pavani\source\repos\Celsius\Celsius\bin\Debug\net6.0\Celsius.dll
+C:\Users\Pavani\source\repos\Celsius\Celsius\bin\Debug\net6.0\ref\Celsius.dll
+C:\Users\Pavani\source\repos\Celsius\Celsius\bin\Debug\net6.0\Celsius.pdb
+C:\Users\Pavani\source\repos\Celsius\Celsius\obj\Debug\net6.0\Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\Celsius\Celsius\obj\Debug\net6.0\Celsius.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\Celsius\Celsius\obj\Debug\net6.0\Celsius.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\Celsius\Celsius\obj\Debug\net6.0\Celsius.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\Celsius\Celsius\obj\Debug\net6.0\Celsius.dll
+C:\Users\Pavani\source\repos\Celsius\Celsius\obj\Debug\net6.0\ref\Celsius.dll
+C:\Users\Pavani\source\repos\Celsius\Celsius\obj\Debug\net6.0\Celsius.pdb
+C:\Users\Pavani\source\repos\Celsius\Celsius\obj\Debug\net6.0\Celsius.genruntimeconfig.cache
